@@ -62,7 +62,7 @@
             Получите свой индивидуальный план похудения
             <span>всего за 29 руб.</span>
           </div>
-          <a href="{offer}" class="button head__buttons info-link-to-land">Получить план похудения</a>
+          <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>" class="button head__buttons info-link-to-land">Получить план похудения</a>
           <div class="head__item-text">
             Продолжая вы соглашаетесь с подпиской на сервис, пользовательским
             соглашением, офертой, правилами сервиса, рекуррентными платежами
