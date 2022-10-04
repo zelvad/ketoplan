@@ -226,7 +226,7 @@
             </div>
           </div>
         </div>
-        <a href="#" class="button head__buttons info-link-to-land">
+        <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>" class="button head__buttons info-link-to-land">
           Получить план похудения
         </a>
         <div class="cards-mobile__text">
