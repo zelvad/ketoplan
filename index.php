@@ -1,5 +1,7 @@
 <?php error_reporting(0); ?>
 <?php if ($clickID = $_GET['clickid']) {setcookie("clickid", $clickID, time() + 2 * 24 * 60 * 60);} ?>
+<?php if ($clickID = $_GET['iduser']) {setcookie("iduser", $clickID, time() + 2 * 24 * 60 * 60);} ?>
+<?php if ($clickID = $_GET['payaction']) {setcookie("payaction", $clickID, time() + 2 * 24 * 60 * 60);} ?>
 
 <!DOCTYPE html>
 <html lang="ru">
