@@ -322,7 +322,7 @@
   </section>
 
   <div class="fixed-btn-wrap active">
-    <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>" class="fixed__button active info-link-to-land">
+    <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="fixed__button active info-link-to-land">
       Получить план похудения
     </a>
   </div>
