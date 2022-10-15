@@ -62,7 +62,7 @@
             Получите свой индивидуальный план похудения
             <span>всего за 29 руб.</span>
           </div>
-          <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="button head__buttons info-link-to-land">Получить план похудения</a>
+          <a href="https://safedvpn.com/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="button head__buttons info-link-to-land">Получить план похудения</a>
           <div class="head__item-text">
             Продолжая вы соглашаетесь с подпиской на сервис, пользовательским
             соглашением, офертой, правилами сервиса, рекуррентными платежами
@@ -226,7 +226,7 @@
             </div>
           </div>
         </div>
-        <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="button head__buttons info-link-to-land">
+        <a href="https://safedvpn.com/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="button head__buttons info-link-to-land">
           Получить план похудения
         </a>
         <div class="cards-mobile__text">
@@ -322,7 +322,7 @@
   </section>
 
   <div class="fixed-btn-wrap active">
-    <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="fixed__button active info-link-to-land">
+    <a href="https://safedvpn.com/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="fixed__button active info-link-to-land">
       Получить план похудения
     </a>
   </div>
