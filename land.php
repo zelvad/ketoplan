@@ -60,7 +60,7 @@
         <div class="head__item">
           <div class="head__item-title">
             Получите свой индивидуальный план похудения
-            <span>всего за 29 руб.</span>
+            <span>всего за 1 руб.</span>
           </div>
           <a href="https://yourdailyplan.online/ketoplan-subscribe?clickid=<?= isset($_COOKIE['clickid']) ? $_COOKIE['clickid'] : '' ?>&iduser=<?= isset($_COOKIE['iduser']) ? $_COOKIE['iduser'] : '' ?>&payaction=<?= isset($_COOKIE['payaction']) ? $_COOKIE['payaction'] : '' ?>" class="button head__buttons info-link-to-land">Получить план похудения</a>
           <div class="head__item-text">
@@ -124,7 +124,7 @@
       <div class="head__mobile">
         <div class="head__mobile-title">
           Получите свой индивидуальный план похудения
-          <span>всего за 29 руб.</span>
+          <span>всего за 1 руб.</span>
         </div>
         <div class="head__mobile-inner">
           <div class="get__item-img">
